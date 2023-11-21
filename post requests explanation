@@ -1,0 +1,22 @@
+HTTP Post Requests
+Useful link - 'requests' module documentation
+https://requests.readthedocs.io/en/latest/api/
+
+Types of methods:
+get - requests.get()
+Retrieve info from a site
+
+post - requests.put()
+Post info on a site
+Ex: Tweet something on Twitter
+
+put - requests.put()
+Update a piece of data on an external service
+Ex: Update some values in a spreadsheet
+
+delete - requests.delete()
+Delete a piece of data on an external service
+
+Check other features in the requests module by checking the documentation link above
+
+
